@@ -1,0 +1,16 @@
+www.mrbug.ir ---> IP address : 185.143.233.120, Port 21 is closed
+www.mrbug.ir ---> IP address : 185.143.233.120, Port 22 is closed
+www.mrbug.ir ---> IP address : 185.143.233.120, Port 23 is closed
+www.mrbug.ir ---> IP address : 185.143.233.120, Port 25 is closed
+www.mrbug.ir ---> IP address : 185.143.233.120, Port 53 is closed
+www.mrbug.ir ---> IP address : 185.143.233.120, Port 80 is open
+www.mrbug.ir ---> IP address : 185.143.233.120, Port 110 is closed
+www.mrbug.ir ---> IP address : 185.143.233.120, Port 119 is closed
+www.mrbug.ir ---> IP address : 185.143.233.120, Port 123 is closed
+www.mrbug.ir ---> IP address : 185.143.233.120, Port 143 is closed
+www.mrbug.ir ---> IP address : 185.143.233.120, Port 161 is closed
+www.mrbug.ir ---> IP address : 185.143.233.120, Port 194 is closed
+www.mrbug.ir ---> IP address : 185.143.233.120, Port 443 is open
+www.mrbug.ir ---> IP address : 185.143.233.120, Port 445 is closed
+www.mrbug.ir ---> IP address : 185.143.233.120, Port 993 is closed
+www.mrbug.ir ---> IP address : 185.143.233.120, Port 995 is closed
